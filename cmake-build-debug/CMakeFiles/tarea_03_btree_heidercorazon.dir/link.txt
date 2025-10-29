@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2025.2.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\tarea_03_btree_heidercorazon.dir/objects.a
-C:\PROGRA~1\JETBRA~1\CLION2~2.1\bin\mingw\bin\ar.exe qc CMakeFiles\tarea_03_btree_heidercorazon.dir/objects.a @CMakeFiles\tarea_03_btree_heidercorazon.dir\objects1.rsp
-C:\PROGRA~1\JETBRA~1\CLION2~2.1\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\tarea_03_btree_heidercorazon.dir/objects.a -Wl,--no-whole-archive -o tarea_03_btree_heidercorazon.exe -Wl,--out-implib,libtarea_03_btree_heidercorazon.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\tarea_03_btree_heidercorazon.dir\linkLibs.rsp
