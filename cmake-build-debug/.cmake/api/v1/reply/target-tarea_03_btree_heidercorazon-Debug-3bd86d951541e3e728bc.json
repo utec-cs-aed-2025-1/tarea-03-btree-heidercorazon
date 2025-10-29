@@ -52,7 +52,7 @@
 			[
 				{
 					"backtrace" : 2,
-					"path" : "C:/Users/karol/CLionProjects/tarea-03-btree-heidercorazon/."
+					"path" : "C:/Users/BRUNO/Desktop/tarea-03-btree-heidercorazon/."
 				}
 			],
 			"language" : "CXX",
@@ -77,10 +77,6 @@
 		[
 			{
 				"fragment" : "-g",
-				"role" : "flags"
-			},
-			{
-				"fragment" : "",
 				"role" : "flags"
 			},
 			{

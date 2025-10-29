@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "tarea_03_btree_heidercorazon::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-tarea_03_btree_heidercorazon-Debug-bdbfa7cc01744fce7939.json",
+					"jsonFile" : "target-tarea_03_btree_heidercorazon-Debug-3bd86d951541e3e728bc.json",
 					"name" : "tarea_03_btree_heidercorazon",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/karol/CLionProjects/tarea-03-btree-heidercorazon/cmake-build-debug",
-		"source" : "C:/Users/karol/CLionProjects/tarea-03-btree-heidercorazon"
+		"build" : "C:/Users/BRUNO/Desktop/tarea-03-btree-heidercorazon/cmake-build-debug",
+		"source" : "C:/Users/BRUNO/Desktop/tarea-03-btree-heidercorazon"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 7
+		"minor" : 8
 	}
 }
