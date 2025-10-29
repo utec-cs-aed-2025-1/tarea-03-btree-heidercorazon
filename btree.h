@@ -1,7 +1,6 @@
 #ifndef BTree_H
 #define BTree_H
 #include <iostream>
-#include <vector>
 #include "node.h"
 
 using namespace std;
@@ -14,7 +13,7 @@ class BTree {
   int n; // total de elementos en el arbol 
 
  public:
-  BTree(int _M) : root(nullptr), M(_M), n(0) {}
+  BTree(int _M) : root(nullptr), M(_M) {}
 
   bool search(TK key);//indica si se encuentra o no un elemento
   void insert(TK key);//inserta un elemento
@@ -25,24 +24,15 @@ class BTree {
 
   TK minKey();  // minimo valor de la llave en el arbol
   TK maxKey();  // maximo valor de la llave en el arbol
-
-  void clear() {
-    if (root != nullptr) {
-      root->killSelf();
-      delete root;
-      root = nullptr;
-    }
-    n = 0;
-  }
-
-  int size() { return n; } // retorna el total de elementos insertados
-
+  void clear(); // eliminar todos lo elementos del arbol
+  int size(); // retorna el total de elementos insertados  
+  
   // Construya un árbol B a partir de un vector de elementos ordenados
-  static BTree* build_from_ordered_vector(const vector<TK>& elements, int order);
+  static BTree* build_from_ordered_vector(vector<T> elements);
   // Verifique las propiedades de un árbol B
   bool check_properties();
 
-  ~BTree() { clear(); }    // liberar memoria
+  ~BTree();     // liberar memoria
 };
 
 #endif
