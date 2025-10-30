@@ -23,7 +23,24 @@ struct Node {
   }
 
   void killSelf() {
-    // TODO
+
+    if(leaf==false){
+      //recorro todos los hijos y elimino recursivamente cada uno
+      for(int i=0;i<=count;i++){
+        if(children[i]!=nullptr){
+          children[i]->killSelf();
+          delete children[i];
+          children[i]=nullptr; //libero puntero
+        }
+      }
+
+    }
+    delete[] keys;
+    delete[] children;
+    count=0;
+    //libero punteros
+    keys=nullptr;
+    children=nullptr;
   }
 };
 
