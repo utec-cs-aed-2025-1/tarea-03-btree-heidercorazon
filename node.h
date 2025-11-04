@@ -20,6 +20,10 @@ struct Node {
     children = new Node<TK>*[M];
     count = 0;
     leaf = true;
+
+    // Inicializar valores para evitar basura en memoria
+    for (int i = 0; i < M - 1; ++i) keys[i] = TK();
+    for (int i = 0; i < M; ++i) children[i] = nullptr;
   }
 
   void killSelf() {

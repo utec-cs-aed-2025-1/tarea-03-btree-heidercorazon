@@ -2,8 +2,8 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=21129767&assignment_repo_type=AssignmentRepo)
 # Integrantes: 
 ### 1- TAMAYO HILARIO MARIA KAROLAY
-### 2- ____   _______
-### 3- ____   _______
+### 2- CAYLLAHUA HILARIO JOEL
+### 3- GARCIA LOPEZ BRUNO 
 ### 4- ____   _______
 
 # B Tree
