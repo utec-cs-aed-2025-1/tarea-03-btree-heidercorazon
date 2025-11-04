@@ -2,3 +2,9 @@
 # Carpetas de build de CLion / CMake
 
 
+# Archivos generados automáticamente por CLion/CMake
+.idea/
+cmake-build-debug/
+*.exe
+*.o
+*.obj
