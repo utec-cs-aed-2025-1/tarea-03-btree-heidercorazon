@@ -2,9 +2,15 @@
 # Carpetas de build de CLion / CMake
 
 
-# Archivos generados automáticamente por CLion/CMake
+# Archivos de configuración de CLion
 .idea/
+
+# Archivos generados automáticamente por CMake
 cmake-build-debug/
+CMakeFiles/
+CMakeCache.txt
 *.exe
 *.o
 *.obj
+*.log
+
