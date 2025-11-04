@@ -1,3 +1,3 @@
-C:/Users/Joel/Desktop/2025-II-DELL/2025-2-dell/Algoritmos y Es. de datos/tarea-03-btree-heidercorazon/cmake-build-debug/CMakeFiles/tarea_03_btree_heidercorazon.dir
-C:/Users/Joel/Desktop/2025-II-DELL/2025-2-dell/Algoritmos y Es. de datos/tarea-03-btree-heidercorazon/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Joel/Desktop/2025-II-DELL/2025-2-dell/Algoritmos y Es. de datos/tarea-03-btree-heidercorazon/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/karol/CLionProjects/tarea-03-btree-heidercorazon/cmake-build-debug/CMakeFiles/tarea_03_btree_heidercorazon.dir
+C:/Users/karol/CLionProjects/tarea-03-btree-heidercorazon/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/karol/CLionProjects/tarea-03-btree-heidercorazon/cmake-build-debug/CMakeFiles/rebuild_cache.dir
